@@ -50,9 +50,15 @@ Olá! Meu nome é **Michel Jorge Araujo Fiquene**, estudante de **Análise e Des
 
 ### 📸 Prints do Projeto
 - **Home / Desktop:**
-  []
+  
 <img width="1365" height="567" alt="Captura de tela 2026-09-06 135836" src="https://github.com/user-attachments/assets/1f96cf0a-baae-42b4-8a7c-d381b1813386" />
 
-  []
-  []
-  []
+ <img width="1356" height="581" alt="Captura de tela 2026-09-06 135906" src="https://github.com/user-attachments/assets/d011a46b-5468-4639-b635-235e71c525d4" />
+ 
+ <img width="1355" height="582" alt="Captura de tela 2026-09-06 135939" src="https://github.com/user-attachments/assets/ee9961a2-520e-4598-835c-3a659430eace" />
+ 
+<img width="1353" height="591" alt="Captura de tela 2026-09-06 135916" src="https://github.com/user-attachments/assets/0826b9b1-5570-4396-bed1-df6244c330ce" />
+
+ <img width="1362" height="580" alt="Captura de tela 2026-09-06 135951" src="https://github.com/user-attachments/assets/43e43b2a-a6ea-4b27-933f-b63cb289bacc" />
+
+  
